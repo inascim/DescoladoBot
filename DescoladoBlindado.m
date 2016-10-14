@@ -1,0 +1,1 @@
+figure;X=tf([3 2 1],[5 5]);rlocus(X);print('FOTO.png','-dpng','-r0')
