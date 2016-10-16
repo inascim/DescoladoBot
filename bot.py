@@ -5,7 +5,7 @@ import os.path
 
 from telegram.ext import Updater
 
-updater = Updater(token='247860137:AAE3nBl0PV5f7SaEEWGT3DEZ4Xub8O25Byk')
+updater = Updater(token='TOKEN DO BOT')
 
 dispatcher = updater.dispatcher
 
